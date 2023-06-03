@@ -51,10 +51,10 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ## 📈 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabiransari1&show_icons=true&theme=flag-india" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabiransari1&theme=flag-india" />
-</p>
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sabiransari1&show_icons=true&theme=flag-india" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabiransari1&theme=flag-india" />
+</div>
 
 ## 🔝 Most used languages
 
