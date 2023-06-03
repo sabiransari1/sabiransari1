@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <body>
     [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://SabirAnsari1.github.io)
 
     <h1>Hi 👋, I'm Sabir Ansari</h1>
@@ -168,5 +159,3 @@
         alt="sabiransari1"
       />
     </div>
-  </body>
-</html>
