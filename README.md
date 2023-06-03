@@ -43,12 +43,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-- 📫 How to reach me **ansariisabir1@gmail.com**
-
-- 👨‍ All of my projects are available at [https://SabirAnsari1.github.io](https://SabirAnsari1.github.io)
-
-- 📄 Resume [https://drive.google.com/file/d/1W33mGB_jZwOzgvqO93pYUejy4CVZ0L2C/view?usp=sharing](https://drive.google.com/file/d/1W33mGB_jZwOzgvqO93pYUejy4CVZ0L2C/view?usp=sharing)
-
 ## 📈 Stats
 
 <div align="center">
@@ -58,10 +52,14 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ## 🔝 Most used languages
 
-<p align="center">
-	<img width="45%" align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabiransari1&theme=flag-india" />
-</p>
+<div align="center">
+<img width="45%" align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabiransari1&theme=flag-india" />
+</div>
 
----
+- 📫 How to reach me **ansariisabir1@gmail.com**
+
+- 👨‍ All of my projects are available at [https://SabirAnsari1.github.io](https://SabirAnsari1.github.io)
+
+- 📄 Resume [https://drive.google.com/file/d/1W33mGB_jZwOzgvqO93pYUejy4CVZ0L2C/view?usp=sharing](https://drive.google.com/file/d/1W33mGB_jZwOzgvqO93pYUejy4CVZ0L2C/view?usp=sharing)
 
 ### Show some ❤️ by starring my repositories!
