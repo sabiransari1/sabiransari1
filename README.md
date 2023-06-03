@@ -47,8 +47,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ## 📈 Stats
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sabiransari1&show_icons=true&theme=flag-india" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabiransari1&theme=flag-india" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sabiransari1&show_icons=true&theme=flag-india" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabiransari1&theme=flag-india" />
 </p>
 
 ## 🔝 Most used languages
