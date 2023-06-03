@@ -1,6 +1,6 @@
 [![MasterHead](https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e473isgopj8bmyeo7jdgklexl83q2qkhw6orxgq1qv7&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://SabirAnsari1.github.io)
 
-<img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e473isgopj8bmyeo7jdgklexl83q2qkhw6orxgq1qv7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Coding" align="right"/>
+<img src="https://i.gifer.com/VJE4.gif" width="100%" alt="Coding" align="right"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40%" alt="Coding" align="right"/>
 
