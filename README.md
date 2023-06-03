@@ -14,7 +14,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <p align="left">
 	<a href="https://www.linkedin.com/in/sabir-ansari-33b275257/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>        
+	</a>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=sabiransari1&label=Profile%20views&color=0e75b6&style=flat" alt="sabiransari1" /></p>        
 </p>
 </p>
 ---
@@ -46,8 +47,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sabiransari1&show_icons=true&theme=flag-india" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabiransari1&theme=flag-india" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sabiransari1&show_icons=true&theme=flag-india" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabiransari1&theme=flag-india" />
 </p>
 
 ## 🔝 Most used languages
@@ -58,4 +59,4 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ---
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring my repositories!
