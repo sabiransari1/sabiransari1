@@ -1,13 +1,22 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://SabirAnsari1.github.io)
 
 <h1>Hi 👋, I'm Sabir Ansari</h1>
-<h3>I'm A MERN Stack Web Developer.</h3>
+<h3>I'm A MERN Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabiransari1&label=Profile%20views&color=0e75b6&style=flat" alt="sabiransari1" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://SabirAnsari1.github.io](https://SabirAnsari1.github.io)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, Redux, TypeScript Chakra-UI**
+- 💬 Ask me about **
+•HTML
+•CSS
+•JavaScript
+•React
+•Chakra-UI
+•Redux
+•TypeScript
+•Node.js
+•MongoDB**
 
 - 📫 How to reach me **ansariisabir1@gmail.com**
 
