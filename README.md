@@ -1,7 +1,3 @@
-[![MasterHead](https://i.gifer.com/VJE4.gif)](https://SabirAnsari1.github.io)
-
-<img src="https://i.gifer.com/VJE4.gif" width="100%" alt="Coding" align="right"/>
-
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40%" alt="Coding" align="right"/>
 
 <p width="60%" align="left">
