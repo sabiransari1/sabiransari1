@@ -7,16 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://SabirAnsari1.github.io](https://SabirAnsari1.github.io)
 
-- 💬 Ask me about **
-•HTML
-•CSS
-•JavaScript
-•React
-•Chakra-UI
-•Redux
-•TypeScript
-•Node.js
-•MongoDB**
+- 💬 Ask me about ** HTML, CSS, JavaScript, React, Chakra-UI, Redux, TypeScript, Node.js, MongoDB**
 
 - 📫 How to reach me **ansariisabir1@gmail.com**
 
