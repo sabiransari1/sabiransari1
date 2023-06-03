@@ -43,9 +43,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-- 👨‍💻 All of my projects are available at [https://SabirAnsari1.github.io](https://SabirAnsari1.github.io)
-
 - 📫 How to reach me **ansariisabir1@gmail.com**
+
+- 👨‍ All of my projects are available at [https://SabirAnsari1.github.io](https://SabirAnsari1.github.io)
 
 - 📄 Resume [https://drive.google.com/file/d/1W33mGB_jZwOzgvqO93pYUejy4CVZ0L2C/view?usp=sharing](https://drive.google.com/file/d/1W33mGB_jZwOzgvqO93pYUejy4CVZ0L2C/view?usp=sharing)
 
