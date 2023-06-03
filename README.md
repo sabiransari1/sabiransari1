@@ -61,5 +61,3 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 👨‍ All of my projects are available at [https://SabirAnsari1.github.io](https://SabirAnsari1.github.io)
 
 - 📄 Resume [https://drive.google.com/file/d/1W33mGB_jZwOzgvqO93pYUejy4CVZ0L2C/view?usp=sharing](https://drive.google.com/file/d/1W33mGB_jZwOzgvqO93pYUejy4CVZ0L2C/view?usp=sharing)
-
-### Show some ❤️ by starring my repositories!
