@@ -18,7 +18,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sabiransari1&label=Profile%20views&color=0e75b6&style=flat" alt="sabiransari1" /></p>        
 </p>
 </p>
----
 
 ## ⚡ Tech Stack
 
