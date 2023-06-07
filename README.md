@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40%" alt="Coding" align="right"/>
 
 <p width="60%" align="left">
-	<h1>Hey 👋, I'm <a href="https://github.com/Vishwa9011/">Sabir Ansari</a></h1>
+	<h1>Hey 👋, I'm <a href="https://sabiransari1.github.io/">Sabir Ansari</a></h1>
 
 ### Glad to see you here! &nbsp;
 
