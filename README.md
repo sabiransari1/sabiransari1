@@ -56,9 +56,3 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <div align="center">
 <img width="45%" align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabiransari1&theme=flag-india" />
 </div>
-
-- 📫 How to reach me **ansariisabir1@gmail.com**
-
-- 👨‍ All of my projects are available at [https://SabirAnsari1.github.io](https://SabirAnsari1.github.io)
-
-- 📄 Resume [https://drive.google.com/file/d/1W33mGB_jZwOzgvqO93pYUejy4CVZ0L2C/view?usp=sharing](https://drive.google.com/file/d/1W33mGB_jZwOzgvqO93pYUejy4CVZ0L2C/view?usp=sharing)
