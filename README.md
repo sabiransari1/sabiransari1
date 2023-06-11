@@ -11,12 +11,12 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <p><img src="https://komarev.com/ghpvc/?username=sabiransari1&label=Profile%20views&color=0e75b6&style=flat" alt="sabiransari1" /></p>
 <p>
-	<a href="https://www.linkedin.com/in/sabir-ansari-33b275257/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sabir-ansari-33b275257/" target="_blank"/>
+	<a href="https://www.linkedin.com/in/sabir-ansari-33b275257/" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sabir-ansari-33b275257/"/>
 	</a>
 </p>        
 <p>
-	<a href="https://sabiransari1.github.io/">
+	<a href="https://sabiransari1.github.io/" target="_blank">
 	<img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://sabiransari1.github.io/" />
 	</a>
 </p>
