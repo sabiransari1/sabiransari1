@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40%" alt="Coding" align="right"/>
 
 <p width="60%" align="left">
-	<h1>Hey 👋, I'm <a href="https://sabiransari1.github.io/">Sabir Ansari</a></h1>
+	<h1>Hey 👋, I'm Sabir Ansari</h1>
 
 ### Glad to see you here! &nbsp;
 
@@ -12,7 +12,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <p><img src="https://komarev.com/ghpvc/?username=sabiransari1&label=Profile%20views&color=0e75b6&style=flat" alt="sabiransari1" /></p>
 <p>
 	<a href="https://www.linkedin.com/in/sabir-ansari-33b275257/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sabir-ansari-33b275257/"/>
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sabir-ansari-33b275257/" target="_blank"/>
 	</a>
 </p>        
 <p>
