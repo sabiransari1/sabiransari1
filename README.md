@@ -4,8 +4,7 @@
 	<h1>Hey 👋, I'm Sabir Ansari</h1>
 
 ### Glad to see you here! &nbsp;
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73E13&center=true&width=435&lines=Aspiring+MERN+Stack+Developer;Currently+Learning+TypeScript" alt="Typing SVG" /></p>
-
+<p align="center" color="green"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73E13&center=true&width=435&lines=I'm+A+MERN+Developer_" alt="Typing SVG" /></p>
 <p>
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 </p>
