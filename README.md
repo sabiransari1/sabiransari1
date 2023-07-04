@@ -1,8 +1,8 @@
+<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" />
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40%" alt="Coding" align="right"/>
 
 <p width="60%" align="left">
 <h1>Hey 👋, I'm Sabir Ansari</h1>
-<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" />
 <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73E13&center=true&width=435&lines=I'm+A+MERN+Developer_" alt="Typing SVG" /></p>
 <p>
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
