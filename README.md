@@ -4,11 +4,10 @@
 <h1>Hey 👋, I'm Sabir Ansari</h1>
 
 <h2><p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=I'm+A+MERN+Developer_;1200%2B+Hours+of+Coding+Experience"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=I'm+A+MERN+Developer_;1200%2B+Hours+of+Coding+Experience">
 </p>
- <br/></h2>
+</h2>
  
-<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73E13&center=true&width=435&lines=I'm+A+MERN+Developer_" alt="Typing SVG" /></p>
 <p>
 I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
 </p>
