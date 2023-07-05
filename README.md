@@ -3,10 +3,9 @@
 <p width="60%" align="left">
 <h1>Hey 👋, I'm Sabir Ansari</h1>
 
-<h2><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=I'm+A+MERN+Developer_;1200%2B+Hours+of+Coding+Experience">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=I'm+A+MERN+Developer_;1200%2B+Hours+of+Coding+Experience_">
 </p>
-</h2>
  
 <p>
 I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
