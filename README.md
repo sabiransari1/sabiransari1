@@ -1,26 +1,25 @@
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40%" alt="Coding" align="right"/>
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Coding" width="40%" align="right"/>
 
 # Hey 👋, I'm Sabir Ansari
 
-<p width="60%" align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=I'm+A+MERN+Developer_;1200%2B+Hours+of+Coding+Experience_">
-<p>
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=I'm+A+MERN+Developer_;1200%2B+Hours+of+Coding+Experience_" alt="Coding" width="60%" align="left">
 	
 <p>	
 I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
 </p>
 
-<p><img src="https://komarev.com/ghpvc/?username=sabiransari1&label=Profile%20views&color=0e75b6&style=flat" alt="sabiransari1" /></p>
+<img src="https://komarev.com/ghpvc/?username=sabiransari1&label=Profile%20views&color=0e75b6&style=flat" alt="sabiransari1" />
+
 <p>
-	<a href="https://www.linkedin.com/in/sabir-ansari-33b275257/" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sabir-ansari-33b275257/"/>
-	</a>
-</p>        
-<p>
-	<a href="https://sabiransari1.github.io/" target="_blank">
-	<img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://sabiransari1.github.io/" />
-	</a>
+<a href="https://www.linkedin.com/in/sabir-ansari-33b275257/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sabir-ansari-33b275257/"/>
+</a>
 </p>
+
+<p>
+<a href="https://sabiransari1.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://sabiransari1.github.io/" />
+</a>
 </p>
 
 ## ⚡ Tech Stack
