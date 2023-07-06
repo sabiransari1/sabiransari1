@@ -8,7 +8,7 @@
 I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
 </p>
 
-
+<img src="https://komarev.com/ghpvc/?username=sabiransari1&label=Profile%20views&color=0e75b6&style=flat" alt="sabiransari1" />
 
 <p>
 <a href="https://www.linkedin.com/in/sabir-ansari-33b275257/" target="_blank">
